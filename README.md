@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iye0006
-- 👀 I’m interested in ... Data Science, Analysing data
-- 🌱 I’m currently learning ... Data Science at the University of Melbourne
+- 👀 I’m interested in ... Computer Science
+- 🌱 I’m currently learning ... Computer Science at the University of Melbourne
 
 
 <!---
